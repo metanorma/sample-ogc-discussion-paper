@@ -9,3 +9,13 @@ These documents are available in its rendered forms here:
 == General
 
 A discussion paper.
+
+Build this document:
+
+[source,sh]
+----
+$ bundle
+$ bundle exec metanorma sources/document.adoc
+----
+
+The PDF file will be generated at `sources/document.pdf`.
