@@ -1,0 +1,11 @@
+= OGC Discussion paper
+
+//image:https://github.com/metanorma/mn-samples-ogc/workflows/ubuntu/badge.svg["Ubuntu Build Status", link="https://github.com/metanorma/mn-samples-ogc/actions?query=workflow%3Aubuntu"]
+
+These documents are available in its rendered forms here:
+
+* https://metanorma.github.io/sample-ogc-discussion-paper/[OGC Discussion Paper in Metanorma (HTML)]
+
+== General
+
+A discussion paper.
