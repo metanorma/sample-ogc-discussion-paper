@@ -2,7 +2,7 @@
 :comment: ### Document type; mandatory. Visit: https://www.metanorma.com/author/ogc/authoring/ for permitted types
 :doctype: discussion-paper
 :comment: ### Document status/stage; mandatory. Visit: https://www.metanorma.com/author/ogc/authoring/ for permitted types
-:status: draft
+:status: swg-draft
 :comment: ### Relevant committee; mandatory. The permitted types are: technical, planning, and strategic-member-advisory
 :committee: technical
 :comment: ### Iteration of the document draft in X.Y format; optional. If present, reviewer notes will be shown in output (for more information visit https://www.metanorma.com/author/topics/document-format/reviewer-notes/)
@@ -44,7 +44,6 @@
 :comment: ### URI to which the DOC version of this standard is published; optional
 :doc-uri: ./document.doc
 :comment: ### Version number; optional. Dot-delimited, preferably with this structure: <version number>.<minor version number>.<patch version number>
-:edition: 1.0.0
 
 ////
 Make sure to complete each included document
